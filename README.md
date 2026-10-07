@@ -11,7 +11,7 @@ Team Member Names:
 - Temitayo Ajiboye - Student Number 300527364
 - Zaina Abukhamis - Student Number 300563496
 
-Product Name: uOvirt 
+Product Name: uOvirt kfkjfj
 
 Description:
 Interactive uOttawa Campus Map is a web application that helps students find their way around campus. Along with buildings and classrooms, it shows where to find food courts, printers, and information desks, as well as good places to study, including study rooms you can reserve.
